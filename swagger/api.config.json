@@ -1,0 +1,18 @@
+{
+  "groupId": "com.sample.app",
+  "artifactId": "swagger-jaxrs-angular",
+  "artifactVersion": "1.0.0",
+  "apiPackage": "com.sample.app.service",
+  "modelPackage": "com.sample.app.dto",
+  "sourceFolder": "src/main/java",
+  "implFolder": "src/main/java",
+  "invokerPackage": "",
+  "serializableModel": true,
+  "useBeanValidation": true,
+  "java8": true,
+  "title": "swagger-jaxrs-angular",
+  "licenseName": "swagger-codegen",
+  "interfaceOnly": true,
+  "dateLibrary": "joda",
+  "hideGenerationTimestamp": true
+}
